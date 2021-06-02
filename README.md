@@ -1,5 +1,5 @@
 # Drinking-Water-Notifier
-Provides a drinking water notification every hour ! 
+Provides a drinking water notification every hour ! on your desktop
 
  Language used: Python
  version : 3.9
