@@ -11,3 +11,4 @@ Provides a drinking water notification every hour !
 To install a module\library, run the following command on cmd (Windows):
 pip install plyer
 
+An icon 'ico' file is also added which is used in notification
